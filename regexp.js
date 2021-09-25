@@ -13,5 +13,6 @@ function searchtext() {
         res = "text does not contain search"
     }
     document.getElementById("n").innerHTML = res;
+    
 }
 

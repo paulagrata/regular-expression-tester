@@ -39,6 +39,14 @@ p {
     margin-bottom: 0em;
     margin-left:.5em;}
 
+input{
+    font-family: sans-serif;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: white;
+    outline: none;}
     
 
 button {

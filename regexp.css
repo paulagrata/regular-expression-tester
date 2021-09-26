@@ -51,9 +51,22 @@ input{
 
 button {
     font-family: sans-serif;
-    margin-left:13em;
+    font-size: 15px;
+    margin-left:11.5em;
     margin-top:1em;
-    margin-bottom: 0em;}
+    margin-bottom: 0em;
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 16px;}
+
+button:hover {
+    background-color: #f1f1f1;}
 
 #wrapper {
     margin-left:auto;

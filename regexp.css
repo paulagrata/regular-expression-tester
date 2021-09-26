@@ -7,7 +7,7 @@ h5 {
 
 h1 {    
     margin-bottom: 0em;
-    margin-left:1em;
+    margin-left:0em;
     margin-right:20em;
     text-align: center;
     font-size: 28px;
@@ -18,7 +18,7 @@ h1 {
 h2 {    
     margin-top:0em;
     margin-bottom: 2em;
-    margin-left:6.5em;
+    margin-left:5.5em;
     font-size: 15px;
     font-family: sans-serif;
     font-weight:normal;}

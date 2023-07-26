@@ -1,6 +1,6 @@
 ## regular expression tester
 
-## Required Files:
+## required files:
 - index.html
 - regexp.css
 - regexp.js
